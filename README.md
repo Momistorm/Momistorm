@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Momistorm
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning C# and JS
 - 💞️ I’m looking to collaborate on programms.
 - 📫 How to reach me Dont
 - ⚡ Fun fact: ...
